@@ -1,6 +1,8 @@
-# How to install requirements?
+To install required dependencies do:
 
-```bash pip install -r requirements.txt ```
+```bash
+pip install -r requirements.txt 
+```
 
 # Quick Chicken
 
