@@ -1,6 +1,6 @@
 # How to install requirements?
 
-<pre> ```bash pip install -r requirements.txt ``` </pre>
+```bash pip install -r requirements.txt ```
 
 # Quick Chicken
 
